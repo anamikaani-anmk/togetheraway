@@ -3,15 +3,15 @@ TogetherAway
 TogetherAway is a Python-based interactive application designed to create fun, emotional, and engaging experiences between users. It includes games, mood tracking, and interactive features to strengthen connections.
 
 Features
-> Interactive games (like Tic Tac Toe)
-> Mood-based interactions
-> Mood analysis and visualization
-> Photo wall for memories
+> Interactive games (like Tic Tac Toe),
+> Mood-based interactions,
+> Mood analysis and visualization,
+> Photo wall for memories,
 > Relationship-focused features
 
 Tech Stack
->Python
->Tkinter
+>Python,
+>Tkinter,
 >Matplotlib
 
 
